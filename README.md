@@ -39,7 +39,7 @@ _Those ts are encrypted. So you have to decrypt that. You need a key to decrypt 
 ## Step 2: Getting the decryption key
 
 * Go to the sources tab in the Developer Tools
-* Look for 'cdn.jsdelivr.net': 
+* Look for 'cdn.jsdelivr.net' or '*.cloudfron.net/static/files': 
 
 ![image](https://user-images.githubusercontent.com/43024008/202853269-d51dbf4c-e73b-4b68-99d5-f558f92930a8.png)
 
